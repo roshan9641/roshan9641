@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roshan Singh</h1>
 <h3 align="center"> I am currently pursuing my B.Tech degree in Information Technology from <a href="https://www.aecwb.edu.in/">[Asansol Engineering College]</a></h3>
+https://komarev.com/ghpvc/?username=Nisha213-mar&label=Profile%20views&color=0e75b6&style=flat" alt="roshan9641" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshan9641&label=Profile%20views&color=0e75b6&style=flat" alt="roshan9641" /> </p>
 
