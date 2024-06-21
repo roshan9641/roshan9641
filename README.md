@@ -1,9 +1,9 @@
 ## Hi, I am Nisha Jha!! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px">
-<h3 align="center"> I am Nisha Jha, currently pursuing my B.Tech degree in Information Technology from <a href="https://www.aecwb.edu.in/">[Asansol Engineering College]</a></h3>
+<h3 align="center"> I am Roshan Singh, currently pursuing my B.Tech degree in Information Technology from <a href="https://www.aecwb.edu.in/">[Asansol Engineering College]</a></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nisha213-mar&label=Profile%20views&color=0e75b6&style=flat" alt="Nisha213-mar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshan9641-mar&label=Profile%20views&color=0e75b6&style=flat" alt="roshan9641" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nisha213-mar" alt="Nisha213-mar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshan9641" alt="roshan9641" /></a> </p>
 <h2><img src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true" width="70"><b>About me</b></h2>
 <img align='right' src="https://vidhi-mody.github.io/img/contribute.gif" width="400">
 ### <h3 align="left">𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚘𝚞𝚝 𝚝𝚘 𝚖𝚎 𝚑𝚎𝚛𝚎 👇 :   </h3>
@@ -11,7 +11,7 @@
   
 
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nishajha828207@gmail.com)](mailto:Nishajha828207.com)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:roshansingh9641460041@gmail.com)](mailto:roshan9641.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nidhi-singh04/)](https://www.linkedin.com/in/nisha-jha-b33248206/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/NishaJh60593601)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://telegr.am/index)
