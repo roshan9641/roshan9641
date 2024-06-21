@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshan Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"> I am Nisha Jha, currently pursuing my B.Tech degree in Information Technology from <a href="https://www.aecwb.edu.in/">[Asansol Engineering College]</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshan9641&label=Profile%20views&color=0e75b6&style=flat" alt="roshan9641" /> </p>
 
