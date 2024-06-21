@@ -1,4 +1,4 @@
-<h1 align="center">Hello <Developers/>!</h1><h1>Hi there! <span class="wave">👋</span></h1>
+<h1 align="center">Hello <Developers/>!<span class="wave">👋</span></h1>
 <h3 align="center"> I am currently pursuing my B.Tech degree in Information Technology from <a href="https://www.aecwb.edu.in/">[Asansol Engineering College]</a></h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshan9641&theme=algolia" alt="roshan9641" /></a> </p>
