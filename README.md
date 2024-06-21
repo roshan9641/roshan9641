@@ -1,4 +1,4 @@
-<h1 align="center">Hello  &ltDevelopers/&gt! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40> </h1> 
+<h1 align="center">Hello  &ltDevelopers/&gt! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"> </h1> 
 <h3 align="center"> Hi! My name is Roshan. Thank You for taking the time to view my GitHub Profile 😄</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshan9641&theme=algolia" alt="roshan9641" /></a> </p>
