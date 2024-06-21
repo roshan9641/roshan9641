@@ -1,5 +1,5 @@
 <h1 align="center">Hello  &ltDevelopers/&gt!<span class="wave">👋</span></h1>
-<h3 align="center"> I am currently pursuing my B.Tech degree in Information Technology from <a href="https://www.aecwb.edu.in/">[Asansol Engineering College]</a></h3>
+<h3 align="center"> Hi! My name is Roshan. Thank You for taking the time to view my GitHub Profile 😄</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshan9641&theme=algolia" alt="roshan9641" /></a> </p>
 <h2><b> About me </b></h2>
