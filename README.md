@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Roshan Singh</h1>
 <h3 align="center"> I am currently pursuing my B.Tech degree in Information Technology from <a href="https://www.aecwb.edu.in/">[Asansol Engineering College]</a></h3>
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshan9641&theme=algolia" alt="roshan9641" /></a> </p>
+<h2><img src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true" width="70"><b>About me</b></h2>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
