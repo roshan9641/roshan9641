@@ -3,6 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshan9641&theme=algolia" alt="roshan9641" /></a> </p>
 <h2><b> About me </b></h2>
+<img align='right' src="https://vidhi-mody.github.io/img/contribute.gif" width="400">
 ### 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -11,8 +12,6 @@
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/roshan9641](https://github.com/roshan9641)
-
-- 💬 Ask me about **react,node.**
 
 - 📫 How to reach me **roshansingh9641460041@gmail.com**
 
