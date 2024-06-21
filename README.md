@@ -1,5 +1,5 @@
-<h1 align="center">Hello  &ltDevelopers/&gt!##<span class="wave">👋</span>
-```CSS
+<h1 align="center">Hello  &ltDevelopers/&gt!<span class="wave">👋</span>
+``CSS
 .wave {
   animation-name: wave-animation;  /* Name of @keyframes element below */
   animation-duration: .75s;  /* Wave speed */
@@ -21,7 +21,7 @@
   75% { transform: rotate( 12deg ) }
   100% { transform: rotate( 0deg ) }
 }
-```##
+``
 </h1> 
 <h3 align="center"> Hi! My name is Roshan. Thank You for taking the time to view my GitHub Profile 😄</h3>
 
