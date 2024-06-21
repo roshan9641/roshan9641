@@ -1,4 +1,24 @@
-<h1 align="center">Hello  &ltDevelopers/&gt!<span class="wave">👋</span></h1>
+<h1 align="center">Hello  &ltDevelopers/&gt!<span class="wave">👋</span></h1> .wave {
+  animation-name: wave-animation;  /* Name of @keyframes element below */
+  animation-duration: .75s;  /* Wave speed */
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  animation-play-state: paused;
+  transform-origin: 70% 70%;  /* Pivot from bottom-left palm */
+  display: inline-block;
+  font-size: 8rem;
+}
+
+.wave:hover {
+  animation-play-state: running; /* Play animation on mouse hover */
+}
+
+@keyframes wave-animation {
+  0% { transform: rotate( 0deg ) }
+  25% { transform: rotate( -10deg ) }
+  75% { transform: rotate( 12deg ) }
+  100% { transform: rotate( 0deg ) }
+}
 <h3 align="center"> Hi! My name is Roshan. Thank You for taking the time to view my GitHub Profile 😄</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshan9641&theme=algolia" alt="roshan9641" /></a> </p>
