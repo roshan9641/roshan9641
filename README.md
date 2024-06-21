@@ -1,4 +1,4 @@
-## Hi, I am Roshan Singh!! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px">
+## Hi, I am Nisha jha!! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px">
 <h3 align="center"> I am Roshan Singh, currently pursuing my B.Tech degree in Information Technology from <a href="https://www.aecwb.edu.in/">[Asansol Engineering College]</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshan9641-mar&label=Profile%20views&color=0e75b6&style=flat" alt="roshan9641" /> </p>
