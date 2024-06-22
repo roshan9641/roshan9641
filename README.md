@@ -34,16 +34,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roshan9641&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
-###
 
-
-
-
-
-
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/roshan9641/roshan9641/output/snake.svg" alt="Snake animation" />
-
-###
